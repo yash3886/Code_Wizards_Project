@@ -1,4 +1,4 @@
-# Code_Wizards_Swadheenta
+# Code_Wizards_Project
 
 This project is an AI based search engine for an e-commerce website.
 
