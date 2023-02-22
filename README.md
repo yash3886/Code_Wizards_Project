@@ -10,9 +10,9 @@ Main features of this project:
   5. It stores the information and recommmend products based on what you have searched before or ordered.
   6. It also authenticates you with your email id and password.
  
-This project was accomplished by our team: \n 
-Parth Madan (Machine learning enthusiast) \n 
-Pallav Sharma (Backend Developer) \n 
-Yash Agrawal (Machine learner and Frontend Developer) \n
-Keshav Garg \n 
-Nitin Kumar Das \n
+This project was accomplished by our team:   
+Parth Madan (Machine learning enthusiast)    
+Pallav Sharma (Backend Developer)    
+Yash Agrawal (Machine learner and Frontend Developer)    
+Keshav Garg     
+Nitin Kumar Das     
